@@ -2,13 +2,13 @@ def x(z):
     y = ['A', 'B', 'C', 'D']
     d = ''
     for r in z:
-        if r not in y and ord(r) < 87:
+        if r not in y and ord(r) < 86:
             d += r
     return d
 print(x('BED'))
 print(x('CLOSET'))
 print(chr(87))
-
+print("תמר הבדחנית!!!!!")
 print("אין כמו פנינה")
 # task: I can also pass array of words
 # task: clean code - renaming
