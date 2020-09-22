@@ -10,7 +10,7 @@ print(x('CLOSET'))
 print(chr(87))
 
 print("אין כמו פנינה")
-print(אין כמו אהובי)
+print("אין כמו אהובי")
 # task: I can also pass array of words
 # task: clean code - renaming
 # task: the condition should also include: not equal to M or N
